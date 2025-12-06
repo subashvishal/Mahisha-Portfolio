@@ -1,0 +1,26 @@
+Goal: Design a professional, high-impact, single-page portfolio website for a Lead Test Engineer/QA Automation expert. The site must be data-driven, highlighting experience in Python, Selenium, and leadership.
+
+1. 🎯 Core Identity & Aesthetic
+User/Role: Lead Test Engineer / QA Automation Specialist
+Tone: Reliable, Data-Driven, Efficient, and Professional.
+Color Palette: Deep Blue (Primary/Background), Teal/Aqua (Accent for links, buttons, and metrics), with plenty of white/light gray space for readability.
+Design Style: Structured and Clean. Use clear boxes or cards to frame information, resembling a professional dashboard or technical interface.
+Photography/Graphics: Use technical, abstract graphics (like code snippets, network graphs, or test-run visuals) rather than generic stock photos.
+2. 📝 Required Sections & Content Focus
+SectionContent Focus (Tailored to Resume)Key Design ElementHero/Header
+Headline: "Mahisha Saravanan: Driving 100% Reliability through Python & Selenium Automation" (or similar). Sub-text: "Highly experienced QA Analyst with 7 years of Python experience, committed to enhancing customer journey reliability across Banking and Healthcare domains.".
+Must feature a prominent CTA to "View Automation Projects" and your contact links.
+Metrics & ImpactA brief section showcasing quantifiable achievements: 7 years Python Experience , 5 years QA Experience , 20% Growth in UAT Runs , Resolved over 200 bugs.
+Use large, bold numbers and icons to present these achievements as "Quick Stats."Technical Skills
+Core: Python, Selenium Framework, Web Scrapping, Manual + Automation QA. Process: Test Plan & Test Execution, Agile/Scrum. Leadership: Team Leadership & Mentorship.
+Use an icon grid or tags/badges for technical skills (Python, Selenium) and a separate list for soft skills (Leadership, Mentorship).Featured Projects/ExperienceShowcase the most technical and impactful work: 1. The Automation Shell Script project (20% UAT growth). 2. The Web Scraping solution (YouTube, Instagram, Job Postings). 3. The Graph Visualization application (AWS Glue integration).
+Each project must be a clickable card that details the Challenge, Solution (Technology Used), and Result/Impact.Work HistoryA streamlined overview of the most recent roles: Globallogic(Senior QA Engineer, Aug 2022-Present) and Tech Prescient(Senior Test Engineer, Apr 2022-Aug 2022). Focus: Highlight the team leadership and E2E testing ownership.
+Use a clean vertical timelineto display Company, Title, and 1-2 key responsibilities.Awards & EducationShowcase Merit Employee of the Year '23 and '24 and the high CGPA.
+A small, focused section with award badges or icons.
+Export to Sheets
+3. ✨ Design Instructions & Constraints
+Readability: Ensure high contrast for all text, especially on the technical/metrics sections.
+
+Professional Image: Use the provided professional image in the Hero section.
+Responsiveness: The layout must be fully optimized for mobile (stacking sections cleanly).
+Flow: The site should logically flow from Who I am → What I've Achieved → How I Do It (Skills) → Proof (Projects) → Work History → Contact.
